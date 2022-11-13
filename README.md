@@ -1,6 +1,6 @@
 # Projeto SCANNER PENETRATION
 
-Ferramenta de mapeamento mais evasiva para verifcar as portas abertas em um host
+Ferramenta de mapeamento mais invasiva para verifcar as portas abertas em um host
 
 ## Tecnologia e ferramentas utilizadas :robot:
 
